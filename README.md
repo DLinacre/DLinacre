@@ -1,22 +1,32 @@
-<p align="center"><img src="https://raw.githubusercontent.com/DLinacre/DLinacre/main/.github/banner.png" alt="The Lab" width="100%"></p>
+![David Linacre Banner](assets/banner.png)
 
-<h1 align="center">David Linacre — The Lab 🧪</h1>
+# Hi, I'm David Linacre 👋
+### Self-Taught Software Developer · UK (Barnsley, South Yorkshire)
 
-<p align="center">
-  <b>Experiments · prototypes · learning builds.</b><br>
-  This is my workshop shelf. Polished, production-ready work lives on my main profile.
-</p>
+I build practical web applications, client-side tools, Android utilities, and local-first experiences.
 
-<p align="center">
-  <a href="https://github.com/LIN4CRE"><img src="https://img.shields.io/badge/⭐%20Main%20profile-@LIN4CRE-f5a524?style=for-the-badge"></a>
-  <a href="https://www.linacre.site/"><img src="https://img.shields.io/badge/🌐%20Portfolio-linacre.site-111?style=for-the-badge"></a>
-</p>
+🌐 **Main Portfolio & Live Launchpad**: [https://www.linacre.site](https://www.linacre.site)
 
 ---
 
-Everything here is a work-in-progress, a proof-of-concept, or a place I try new
-ideas. Rough edges are the point. For the finished, documented projects, head to
-**[@LIN4CRE](https://github.com/LIN4CRE)** — DKMA Monster, Smart Email,
-myhub-pipeline, PokeGuru, KushCloud and more.
+## 🚀 Featured Public Projects & Live Apps
 
-<p align="center"><sub>Built by David Linacre · <a href="https://www.linacre.site/">linacre.site</a></sub></p>
+- 🐱 **[Fleatment](https://dlinacre.github.io/Fleatment/)** — UK Cat Flea & Tick Treatment Finder, Live Price Index & Safety Guide.
+- 🤖 **[Personal OP Agent](https://www.linacre.site/tools/opagent.html)** — Zero-setup client-side AI workspace & prompt controller.
+- 🛡️ **[Arena Audit](https://dlinacre.github.io/a-audit/)** — Universal browser audit checklist & prompt builder.
+- 🎴 **[PokeGuru](https://lin4cre.github.io/PokeGuru/)** — Pokémon TCG database, UK GBP price trends & collection vault.
+- 🛒 **[Apex POS](https://dlinacre.github.io/Apex-POS/)** — Offline-first point of sale system (Vue 3 + Dexie IndexedDB).
+- 📱 **[Mob Deals](https://dlinacre.github.io/mob-deals/)** — Transparent UK SIM-only deal comparison tool.
+- 🔋 **[DKMA Monster](https://lin4cre.github.io/dkma-monster/)** — Universal Android Dont-Kill-My-App OEM battery guide & GUI.
+- 🎮 **[KushCloud](https://lin4cre.github.io/KushCloud/)** — Chill one-tap arcade flyer with synthesised Web Audio.
+
+---
+
+## 🛠️ Stack & Expertise
+- **Frontend & Web**: React, TypeScript, Vue 3, Vite, Tailwind CSS, Canvas 2D, PWA
+- **Systems & Automation**: Python, Node.js, FastAPI, Docker, GitHub Actions
+- **Mobile & Local-First**: Kotlin, Android SDK, Dexie / IndexedDB, Web Audio
+
+---
+
+📬 **Contact**: davidlinacre@hotmail.co.uk | [www.linacre.site](https://www.linacre.site)
